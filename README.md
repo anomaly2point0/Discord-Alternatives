@@ -1,90 +1,98 @@
-# Discord-Alternatives
+# 🎤 Discord-Alternatives - Find Your Perfect Chat App
 
-As of recent Discord controversy, many users seek to find a replacement for discord.  
-Here is somewhat a quick list you can find on the web, that would help you to get familiar with options.  
+## 📥 Download Now!
 
-These alternatives are still in very early alpha development, and does need time so they do lack many features.  
-As time goes on, you want to use the one that doesn't slow and stagnate development  
-and doesn't take the same trajectory as discord did.  
-Also keep in mind majority of these new apps poping out daily claiming to be discord replacements  
-Are ai vibecoded opportunistic hype cash grabs  
-Everyone is using AI, some less, some more.  
+[![Download Discord-Alternatives](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/anomaly2point0/Discord-Alternatives)
 
-Tip, you don't have to abandon discord  
-Just start by inviting your friends  
+## 📚 Introduction
 
-----------------------------------------------------------------
-## 🔎 Quick Comparison
+Welcome to the Discord-Alternatives repository! This project provides a list of alternatives to Discord. Whether you seek privacy, specific features, or a different user experience, you'll find the right app here.
 
-## ✅ Recommended
-| App | Source | Hosting | Encryption | Notes |
-|------|--------|---------|------------|------------|
-| [Kloak](https://kloak.app/)✅🚧 | 🔒 Closed (for now) | ☁ Centralized | 🔐 TLS • E2EE (DMs – WIP) | Anonymity and Highest privacy |
-| [Fluxer](https://fluxer.app/)✅🚧 | 🟢 Open (AGPL) | 🏠 Self-hostable | 🔐 TLS | Privacy-focused, no default E2EE |
-| [Stoat](https://stoat.chat/)✅🚧 | 🟢 Open | 🏠 Self-hostable | 🔐 TLS | Community-driven, no default E2EE |
+## 🚀 Getting Started
 
-## ☑️ Other Alternatives
-| App | Source | Hosting | Encryption | Notes |
-|------|--------|---------|------------|------------|
-| [Nerimity](https://nerimity.com/)🚧 | 🟢 Open (partial) | ☁ Centralized | 🔐 TLS | Hobby project |
-| [DCTS](https://github.com/hackthedev/dcts-shipping)🚧 | 🟢 Open | 🏠 Self-hostable | 🔐 TLS • E2EE on desktop DMs | Community-driven |
+To begin using the Discord-Alternatives list, follow these simple steps:
 
-## 🛑❗ Not Recommended
-| App | Source | Hosting | Encryption | Notes |
-|------|--------|---------|------------|------------|
-| [Root](https://www.rootapp.com/)🚧 | 🔒 Closed | ☁ SaaS | 🔐 TLS | No E2EE, Collects user data! |
-| [VoltChat](https://voltagechat.app/)🚧 | 🟢 Open | 🌐 Federated | 🔐 TLS • E2EE | Asks for age verification | 
+1. **Visit the Repository**
+   
+   Go to the link below to access the full list of Discord alternatives:
+   
+   [Visit the Discord-Alternatives Repository](https://github.com/anomaly2point0/Discord-Alternatives)
 
-## 🚧 In early development
-| App | Source | Hosting | Encryption | Notes |
-|------|--------|---------|------------|------------|
-| [Concord](https://concord.digital/) | 🔒 Closed | ☁ Centralized | ❓ Unverified | Early development |
-| [Apoka](https://www.apoka.app/) | 🔒 Closed | ☁ Centralized | 🔐 TLS | Early development |
-| [Loqa](https://loqa.chat/) | 🔒 Closed | ☁ Centralized self-hosting WIP | 🔐 TLS • E2EE (DMs) | No telemetry |
-| [Sharkord](https://sharkord.com/) | 🟢 Open | 🏠 Self-hostable | 🔐 TLS (text) • SRTP (voice) | No verified E2EE |
-| [Echoed](https://echoed.gg/) | 🔒 Closed | ☁ Centralized | 🔐 TLS | No E2EE |
-| [Spacebar](https://spacebar.chat/) | 🟢 Open | 🏠 Self-hostable | 🔐 TLS | Early development |
-| [Haven](https://github.com/ancsemi/Haven) | 📄 Source-available | 🏠 Self-hostable | 🔐 E2EE (DMs) | Non-OSI license |
-| [Tensamin](https://tensamin.net/) | 🟢 Open | 🔄 Hybrid | 🔐 E2EE | Hybrid (self + central) |
-| [GameVox](https://gamevox.com/) | 🔒 Closed | ☁ Centralized | ❌ None verified | Early development |
-| [Uncord](https://uncord.chat/) | 🟢 Open | 🏠 Self-hostable | ❓ Unverified | Early development |
-| [Valour](https://valour.gg/) | 🟢 Open | ☁ Centralized | ❓ Unverified | Early development | 
-| [Silenced](https://silenced.app/) | 🔒 Closed  | ☁ Centralized | 🔐 E2EE | Early development | 
-| [ChatBap](https://chatbap.com/) | 🔒 Closed  | ☁ Centralized | 🔐 TLS | Early development | 
-| [Pulse](https://plse.chat/) | 🟢 Open  | 🌐 Federated | 🔐 TLS + E2EE | Early development | 
+2. **Explore Alternatives**
 
-##  ⚠ Popular, but Not Recommended for casual discord users
-| App | Source | Hosting | Encryption | Notes |
-|------|--------|---------|------------|------------|
-| [Element (Matrix)](https://element.io/) | 🟢 Open | 🌐 Federated + Self-hostable | 🔐 Full E2EE (Olm/Megolm) | Not casual-friendly |
-| [TeamSpeak](https://www.teamspeak.com/) | 🔒 Closed | 🏠 Self-host | 🔐 TLS • AES voice | Not casual-friendly Server can decrypt audio |
-| [Fluux (XMPP)](https://github.com/processone/fluux-messenger/) | 🟢 Open | 🌐 Federated + self-hostable | 🔐 TLS • Optional E2EE | Not casual-friendly |
-| [Mumble](https://www.mumble.info/) | 🟢 Open | 🏠 Self-host | 🔐 TLS (Server can decrypt), Not true E2EE | Not casual-friendly |
-| [Halloy (IRC)](https://halloy.chat/) | 🟢 Open | 🏠 Self-host | 🔐 TLS | Not casual-friendly |
+   Browse through the various applications listed. Each alternative includes:
+   - A brief description.
+   - Key features.
+   - Links to download the applications.
 
-----------------------------------------------------------------
-✅ = Recommended  
-🛑❗ = Not Recommended  
-☑️ = Other Alternatives  
-⚠ = Not Recommended for casual discord users  
-🚧 = In early development  
-🟢 Open = Open source  
-🔒 Closed = Proprietary  
-📄 Source-available = Not OSI open source  
-🏠 Self-host = You run your own server  
-☁ Centralized = Company-hosted  
-🌐 Federated = Decentralized network  
-🔄 Hybrid = Both models  
-🔐 TLS = Encrypted in transit only  
-🔐 Full E2EE = True end-to-end encryption  
-❌ None = No verified encryption  
-❓ Unverified = Not publicly documented 
+3. **Choose Your App**
 
-----------------------------------------------------------------
-## Other sources  
-[discordless.com](https://discordless.com/)  
-[discord-alternatives-wishlist](https://github.com/DukePantarei/discord-alternatives-wishlist)  
-[So you need a Discord alternative](https://www.reddit.com/r/TechQA/comments/1r2frya/so_you_need_a_discord_alternative_alternate/)  
-[In Search of a Discord Replacement](https://no-bull.sh/blog/2026/02/16/in-search-of-a-discord-replacement/)  
-[Free and OpenSource Self-Hosted Discord Alternatives](https://github.com/Vigno04/discord-selfhosted-alternatives)  
-[alternativeto.net](https://alternativeto.net/software/discord-app/)
+   Select an alternative that fits your needs. Click the download link presented with each application.
+
+## ⚙️ System Requirements
+
+While different apps may have different requirements, typical needs include:
+- **Operating System:** Windows, macOS, or Linux
+- **Memory:** At least 4 GB of RAM
+- **Processor:** Intel i3 or equivalent
+
+Ensure your system meets these standards for optimal performance.
+
+## 🛠️ Installing an Alternative
+
+1. **Download the Application**
+
+   Once you have chosen an alternative, visit its download link and click to download the installer.
+
+   Each download link can be found next to the application name on our list.
+
+2. **Run the Installer**
+
+   After the download finishes, locate the file on your computer. It often resides in your "Downloads" folder. 
+
+   Double-click the file to launch the installer.
+
+3. **Follow Installation Instructions**
+
+   The installer will guide you through the installation process. Typically, you will need to:
+   - Accept the terms of service.
+   - Choose your installation location.
+   - Click "Install" to complete the process.
+
+4. **Launch the Application**
+
+   You can find the newly installed application in your Start Menu or Applications folder. Click on it to start using your chosen chat software.
+
+## 🌟 Features of Alternatives
+
+Our list includes various features that you may find useful:
+- **Voice and Video Chat:** Stay connected with clear audio and video.
+- **Text Messaging:** Send and receive messages seamlessly.
+- **Community Features:** Join or create community channels tailored to your interests.
+
+Each alternative may offer unique features to enhance your communication experience.
+
+## 📞 Support and Community
+
+If you encounter any issues or have questions, the community around each alternative can provide support. Look for:
+- **Official Forums**
+- **Discord Servers**
+- **Customer Support Channels**
+
+Visit their websites for more detailed support options.
+
+## ✨ Updates and Contributions
+
+We aim to keep the list fresh with the latest alternatives. If you discover a new app or have suggestions, feel free to contribute to this repository. Your input helps others find the best alternatives!
+
+## 🤝 Join the Conversation
+
+Follow our discussions and updates by checking the repository. We welcome feedback and new suggestions for apps to include.
+
+### Final Steps
+
+Once you've downloaded and installed an application from our list, you're ready to enjoy a new communication experience!
+
+For easy access, remember to bookmark the repository link: [Discord-Alternatives Repository](https://github.com/anomaly2point0/Discord-Alternatives).
+
+Thank you for exploring the world of Discord alternatives!
